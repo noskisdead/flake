@@ -8,6 +8,7 @@
       ./core/maintenance.nix
       ./core/networking.nix
       ./core/settings.nix
+      ./core/shell.nix
       ./core/time.nix
       ./core/users.nix
       ./programs/nh.nix

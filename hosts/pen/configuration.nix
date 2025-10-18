@@ -11,9 +11,6 @@
   services.displayManager.sddm.enable = true;
   services.desktopManager.plasma6.enable = true;
 
-  # Enable CUPS to print documents.
-  services.printing.enable = true;
-
   # Install firefox.
   programs.firefox.enable = true;
 
@@ -22,8 +19,4 @@
     wget
     git
   ];
-
-  # Enable Fish
-  programs.fish.enable = true;
-  documentation.man.generateCaches = false;
 }
