@@ -10,5 +10,6 @@
       ./core/settings.nix
       ./core/time.nix
       ./core/users.nix
+      ./programs/nh.nix
     ];
 }
