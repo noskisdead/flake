@@ -5,10 +5,10 @@
     [
       ./core/audio.nix
       ./core/boot.nix
+      ./core/maintenance.nix
       ./core/networking.nix
       ./core/settings.nix
       ./core/time.nix
-      ./core/updates.nix
       ./core/users.nix
     ];
 }
