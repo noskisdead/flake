@@ -3,6 +3,6 @@
 {
   programs.nh = {
     enable = true;
-    flake = "/home/kenny/.nix";
+    flake = "/home/kenny/.nix/";
   };
 }
