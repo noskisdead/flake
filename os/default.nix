@@ -11,6 +11,7 @@
       ./core/shell.nix
       ./core/time.nix
       ./core/users.nix
+      ./programs/gaming.nix
       ./programs/kde.nix
       ./programs/nh.nix
     ];
