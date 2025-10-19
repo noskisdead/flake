@@ -11,7 +11,7 @@
       ./core/shell.nix
       ./core/time.nix
       ./core/users.nix
-      ./desktop/sddm.nix
+      ./programs/kde.nix
       ./programs/nh.nix
     ];
 }
