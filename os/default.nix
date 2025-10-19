@@ -12,7 +12,8 @@
       ./core/time.nix
       ./core/users.nix
       ./programs/gaming.nix
-      ./programs/kde.nix
+      ./programs/sddm.nix
+      ./programs/ui.nix
       ./programs/nh.nix
     ];
 }
